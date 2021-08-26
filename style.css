@@ -1,0 +1,77 @@
+/* Header section */
+.header{
+    background-color:#101446;
+    padding: 10px;
+}
+.header-logu img{
+    width: 80px;
+}
+.header-menu{}
+.header-menu ul{
+    margin-bottom: 0;
+}
+.header-menu ul li{
+    display: inline-block;
+    list-style: none;
+}
+.header-menu ul li a{
+    color: #fff;
+    display: block;
+    padding: 0px 15px;
+    line-height: 50px;
+    text-decoration: none;
+}
+/* Banner section */
+.banner{
+    background-image: url(./img/intro-bg.jpg);
+    padding: 300px 0;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #fff;
+}
+/* service */
+.card img{
+    width: 150px;
+    margin: auto;
+}
+.card{
+    text-align: center;
+    border: none;
+    background-color: #bac1f3;
+}
+.card2 img{
+    width: 160px;
+}
+.btn{
+    width: 150px;
+    margin: auto;
+}
+.our-teem{
+    background-color: #bac1f3;
+}
+.service{
+    background-color: #bac1f3;
+}
+/* About section */
+.about-section{
+    background-color: #c2d4ea;
+}
+.about-text ul{
+    list-style: none;
+}
+.about-all-text h5{
+    font-weight: 400;
+}
+/* Contact us */
+.contact-section{
+    background-color:#f5f5f5;
+}
+/* footer */
+.footer{
+    background-color: #0062d3;
+    text-align: center;
+    color: #fff;
+}
+span{
+    font-weight: 600;
+}
