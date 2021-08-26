@@ -29,9 +29,12 @@
     background-size: cover;
     color: #fff;
 }
+#button{
+    width: 120px;
+}
 /* service */
 .card img{
-    width: 150px;
+   width: 150px;
     margin: auto;
 }
 .card{
@@ -65,6 +68,9 @@
 /* Contact us */
 .contact-section{
     background-color:#f5f5f5;
+}
+.btnn{
+    width: 80px;
 }
 /* footer */
 .footer{
